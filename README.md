@@ -1,5 +1,5 @@
 # RevenueClassifier
-This project is about predicting whether the customer will buy the product. The dataset includes customer activities.
+This project is about predicting whether the customer will buy the product. The dataset includes customer activities. The dataset is imbalanced
 
 There are 17 features and 1 target column in the dataset. The target column which is "Revenue" consists of True or False. This is an imbalanced dataset.
 
